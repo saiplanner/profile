@@ -349,8 +349,9 @@ section .container {
   }
 }
 
+/*font size change by sai*/
 .section-title h2 {
-  font-size: 30px;
+  font-size: 18px;
   font-weight: 500;
   padding: 0;
   line-height: 1px;
